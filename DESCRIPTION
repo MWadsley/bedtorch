@@ -45,6 +45,6 @@ Remotes:
     bioc::GenomeInfoDb,
     bioc::S4Vectors
 LinkingTo: 
-    Rcpp
+    Rcpp,
     Rhtslib
 SystemRequirements: GNU make
