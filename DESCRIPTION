@@ -46,4 +46,5 @@ Remotes:
     bioc::S4Vectors
 LinkingTo: 
     Rcpp
+    Rhtslib
 SystemRequirements: GNU make
